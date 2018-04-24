@@ -2,7 +2,7 @@
 # 毕业设计
 
 网址：  
-  http://www.liangjunrong.com:3000  
+  <a href="http://www.liangjunrong.com:3000" target="_blank">便捷校园</a>  
 
 技术栈：  
 &nbsp;&nbsp;本项目由 Vue.js+Node.js+MongoDB 构建完成  
