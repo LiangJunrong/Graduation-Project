@@ -18,4 +18,4 @@
   1、cnpm install  
   2、cnpm run dev / cnpm run build  
 
-备注：如有疑问，欢迎到项目的“联系作者”call我，走过路过给个star，谢谢~
+备注：如有疑问，欢迎到项目的“联系作者”call我，走过路过给个star，谢谢~  
