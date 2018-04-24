@@ -5,7 +5,7 @@
   http://www.liangjunrong.com:3000  
 
 技术栈：  
-&nbsp;&nbsp;本项目由 Vue.js+Node.js+MongoDB 构建完成  
+&nbsp;&nbsp;本项目由 Vue.js+Node.js+MongoDB 构建完成  
 &nbsp;&nbsp;前端使用了Vue.js、vue-router、Vuex、axios、ElementUI、vue-lazyload、vue-infinite-scroll等  
 &nbsp;&nbsp;后台使用了Express框架  
 &nbsp;&nbsp;数据库使用了Mongoose框架  
