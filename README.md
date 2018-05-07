@@ -17,5 +17,7 @@
 使用：  
 &nbsp;&nbsp;1、cnpm install  
 &nbsp;&nbsp;2、cnpm run dev / cnpm run build  
+&nbsp;&nbsp;3、node server/bin/www  
+PS：mongodb、node、vue都要开启才能正常运行的哦~
 
 备注：如有疑问，欢迎到项目的“联系作者”call我，走过路过给个star，谢谢~  
